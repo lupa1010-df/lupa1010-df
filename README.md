@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I'm Paul 👋
 
-<!--
-**lupa1010-df/lupa1010-df** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a motivated life long learner with experience in cloud technologies and data analysis.
+My journey began with a degree in wood technology, and since then, I have continuously expanded my skills.
+I am particularly interested in data science and data engineering.
 
-Here are some ideas to get you started:
+## Skills
+- **Cloud Technologies**: Knowledge in cloud computing and data solutions
+- **Data Analysis**: Experience in analyzing and interpreting data
+- **Data Science/Engineering**: Passion for data science and data engineering
+- **Programming Languages**: Python (with Matlab, Numpy, etc.) and SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **Project 1**: [Brief description of the project and link to the repository]
+- **Project 2**: [Brief description of the project and link to the repository]
+
+## Contact
+- **Email**: paulbacher@hotmail.com
+- **GitHub**: lupa1010-df
+
+I look forward to connecting with you and sharing exciting projects!
