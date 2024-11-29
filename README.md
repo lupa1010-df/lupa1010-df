@@ -12,8 +12,7 @@ I am particularly interested in data science and data engineering.
 - **Programming Languages**: Python (with Matlab, Numpy, etc.) and SQL
 
 ## Projects
-- **Project 1**: [Brief description of the project and link to the repository]
-- **Project 2**: [Brief description of the project and link to the repository]
+- **Project 1**: Iaccess vs ICT employment
 
 ## Contact
 - **Email**: paulbacher@hotmail.com
