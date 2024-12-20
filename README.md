@@ -13,6 +13,7 @@ I am particularly interested in data science and data engineering.
 
 ## Projects
 - **Project 1**: Iaccess vs ICT employment
+- **Project 2**: FitFlow - Relational Database Concept of a Fitness Application
 
 ## Contact
 - **Email**: paulbacher@hotmail.com
