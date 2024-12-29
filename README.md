@@ -14,6 +14,7 @@ I am particularly interested in data science and data engineering.
 ## Projects
 - **Project 1**: Iaccess vs ICT employment
 - **Project 2**: FitFlow - Relational Database Concept of a Fitness Application
+- **Project 3**: Riding the Data Wave - Merging Citi Bike and Weather Insights for Smarter Analytics
 
 ## Contact
 - **Email**: paulbacher@hotmail.com
